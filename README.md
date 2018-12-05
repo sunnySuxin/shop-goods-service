@@ -1,2 +1,2 @@
 # sx-goods-service
-电商项目购物车
+电商项目商品
